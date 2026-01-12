@@ -7,7 +7,7 @@ It is designed as an **academic / final-year B.Tech CSE project** and deployed u
 
 ## 🚀 Live Application
 👉 **Access the app here:**  
-https://multi-disease-xray-app-mlgh8xbwj5yfuqesstkfmr.streamlit.app
+https://multi-disease-xray-app-mlgh8bxwj5yfuqesstkfmr.streamlit.app/
 
 ---
 
